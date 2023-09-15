@@ -1,0 +1,13 @@
+1. intialize `npm` into your repo
+-  npm init
+   npm add remote origin `git link here`
+   npm add .
+   npm commit -m "Assignment 2 Added"
+   npm push origin
+
+2. install `react` and `react-dom`
+-  npm i react
+   npm i react-dom
+
+3. install parcel
+-  npm i -D parcel
